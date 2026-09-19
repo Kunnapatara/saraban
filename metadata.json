@@ -1,0 +1,6 @@
+{
+  "name": "SARABAN.AI",
+  "description": "Gov-Protocol Compiler - แปลงเจตจำนงของมนุษย์ให้กลายเป็นพิธีกรรมสารบรรณภาครัฐที่ถูกต้องตามระเบียบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
